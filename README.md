@@ -1,2 +1,4 @@
-# Linux-Repo
+#!/bin/bash
+
+number
 
